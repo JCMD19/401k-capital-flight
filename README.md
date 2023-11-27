@@ -6,7 +6,7 @@ Based on the funds available, I will research what the underlying assets of the 
 
 I expect the vast majority of money to flow out of Tennessee, meaning other regions are benefiting from our capital and capital flight out of the state is occurring. States like Tennessee are essentially "Fly over funds." 
 
-I will yuse the EDGAR Database provided by the SEC with the APIs :
+I will use the EDGAR Database provided by the SEC with the APIs:
 data.sec.gov/api/xbrl/companyconcept/
 data.sec.gov/api/xbrl/companyfacts/
 data.sec.gov/api/xbrl/frames/
