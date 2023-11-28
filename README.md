@@ -13,4 +13,4 @@ data.sec.gov/api/xbrl/frames/
 
 The relevant forms are N-Q (Quarterly) and N-CSR (Annual) which contain the mutual fund holdings. 
 
-I could have used the Morningstat API but requires a paid token authenticator or webscraped with a premium subscription. I want this to start no/zero cost.  
+I could have used the Morningstar API but requires a paid token authenticator or webscraped with a premium subscription. I want this to start no/zero cost.  
